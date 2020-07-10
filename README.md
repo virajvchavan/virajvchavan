@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Visit [virajc.tech!](https://virajc.tech) to know more about me.
+#### Visit [virajc.tech](https://virajc.tech) to know more about me.
 ![Resume](https://github.com/virajvchavan/virajvchavan/blob/master/resume-1.jpg)
 
 <!--
