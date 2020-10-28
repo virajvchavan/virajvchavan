@@ -1,6 +1,5 @@
 ### Hi there 👋
 #### Visit [virajc.tech](https://virajc.tech) to know more about me.
-![Resume](https://github.com/virajvchavan/virajvchavan/blob/master/resume-1.jpg)
 
 <!--
 **virajvchavan/virajvchavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
